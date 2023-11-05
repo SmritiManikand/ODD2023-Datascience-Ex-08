@@ -108,7 +108,6 @@ plt.show()
 
 ### BAR PLOT:
 <img width="290" alt="s10" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/baceea1e-3cfc-4ecd-8cc2-5407abdea431">
-
 <img width="255" alt="s11" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/ce4216e1-2448-4bb4-8000-16fba472b25a">
 
 <img width="257" alt="s12" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/c04902aa-27b1-44bd-b387-90018c3b9c21">
